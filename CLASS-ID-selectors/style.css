@@ -1,0 +1,21 @@
+.first, .fifth {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.second.class {
+  background-color: #ffb6c1;
+  font-family: Verdana, "DejaVu Sans", sans-serif;  
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: #90ee90;
+  font-weight: bold;
+  font-size: 24px;
+}
