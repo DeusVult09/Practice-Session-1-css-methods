@@ -6,10 +6,10 @@
 ## Skills Demonstrated
 
 - Writing clean CSS syntax
-- Adding unique class names to html [class] attributes
+- Adding unique class names to html [class] attribute
 - Grouping selectors to apply similar style for both elements
 - Separating css rules for elements that have unique styles
 
 ## Reflection
 
-This exercises was very easy. I have not faces any challenges so far and could finish the exercises within a very short time span.
+This exercises waere very easy. I have not faces any challenges so far and could finish the exercises within a very short time span.
