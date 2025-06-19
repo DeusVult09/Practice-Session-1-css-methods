@@ -12,4 +12,4 @@
 
 ## Reflection
 
-This exercises was very easy. I have not faces any challenges so far and could finish the exercises within a very short time span.
+This exercises was very easy. I have not faces any challenges so far and could finish the exercises within a very short time spa
