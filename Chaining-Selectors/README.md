@@ -7,7 +7,7 @@
 
 - Writing clean CSS syntax
 - Properly chain class selectors for each rule
-- 
+ 
 
 ## Reflection
 
