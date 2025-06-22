@@ -13,6 +13,7 @@
 - Combining both class selectors and id selectors within one html element
 - Chaining selectors using multiple class names 
 - Using background-color, color, text-alignment, font size/weight/family, etc. properties
+- Understanding CSS cascade based on type, specificity, importance and position
 
 ## Reflection
 
